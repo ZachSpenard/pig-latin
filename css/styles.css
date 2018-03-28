@@ -1,0 +1,18 @@
+body {
+  background-color: CadetBlue;
+}
+
+h1 {
+  color: Tomato;
+  text-align: center;
+  margin: auto;
+  text-shadow: 1px 1px black;
+}
+
+.jumbotron {
+  background-color: PapayaWhip;
+}
+
+p {
+  color: Tomato;
+}
