@@ -12,7 +12,7 @@
 
 * Navigate here https://github.com/ZachSpenard/pig-latin
 * Run "git clone" https://github.com/ZachSpenard/pig-latin.git into target directory
-* gh-pages file:///Users/Guest/Desktop/pig-latin/index.html
+* gh-pages https://zachspenard.github.io/pig-latin/
 
 ## Known Bugs
 * N/A
