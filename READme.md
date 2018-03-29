@@ -21,10 +21,10 @@
 | Spec | Input | Output |
 | :-------------     | :------------- | :------------- |
 | **Homepage** | User accesses localhost:5004 | Homepage with user input form |
-| **Program Add "way" to the end, for words beginning with a vowel.** | User input: "Submit" | Output: "" |
-| **Program For words beginning with "y", treat "y" as a consonant.**| User Input: "Submit" | Output: "" |
-| **Program For words beginning with one or more consonants, move all of the first consecutive consonants to the end, and add "ay".**| Input: "Submit" | Output: "" |
-| **Program If the first consonants include "qu", move the "u" along with the "q". Don't forget about words like "squeal" where "qu" doesn't come first!** | Input: "Submit" | Output: "" |
+| **Program Add "way" to the end, for words beginning with a vowel.** | User input: Input: "away" | Output: "awayway" |
+| **Program For words beginning with "y", treat "y" as a consonant.**| User Input: "your" | Output: "ouryay" |
+| **Program For words beginning with one or more consonants, move all of the first consecutive consonants to the end, and add "".**| Input: "flat" | Output: "atflay" |
+| **Program If the first consonants include "qu", move the "u" along with the "q". Don't forget about words like "squeal" where "qu" doesn't come first!** | Input: "squeal" | Output: "ealsquay" |
 
 ## Support and contact details
 
